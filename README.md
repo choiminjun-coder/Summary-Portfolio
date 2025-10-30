@@ -32,10 +32,8 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 - **기간**: 2024.03.01 ~ 2024.10.31
 - **역할**: 프로그래머
 - **팀**: 프로그래머 2인 
-- **개요**: 색상 기반 퍼즐과 TPS 스타일 캐릭터 이동 결합. 폭발 및 시각 효과 엔딩 연출 포함.  
-- **특징**: 유니티 기본 시스템 실습, 외부 에셋 연동, 협업 기반 프로젝트. 개발자 3인.  
 - **GitHub Repository**: [코드보기](https://github.com/choiminjun-coder/choiminjun-puzzle) 
-
+- **설명**:
 - **주요 기술**: Unity, C#, FSM, Animator, Coroutine, Physics
 
 - ## 👋 자기소개
