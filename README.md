@@ -6,9 +6,8 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 
 ## 1. TPS 로그라이크 게임
 **기간**: 2022.09.20 ~ 2025.03.01<br>
-
-**역할**: 기획, 프로그래머
- **팀**: 디자이너 1인
+**역할**: 기획, 프로그래머<br>
+**팀**: 디자이너 1인<br>
  **개발 및 구현 영상**:  
 [![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=JgRZtCDci7s)  
 - **GitHub Repository**: [코드](https://github.com/choiminjun-coder/choiminjun-TPSscript)
