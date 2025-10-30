@@ -48,5 +48,5 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 
   ---
 
-- **프로젝트 내부 구조 확인 가능한 개발자용 포트폴리오**: (https://github.com/choiminjun-coder/choiminjun-portfolio) 
+- **프로젝트 내부 구조 확인 가능한 개발자용 포트폴리오**: [링크](https://github.com/choiminjun-coder/choiminjun-portfolio) 
 
