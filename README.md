@@ -6,7 +6,7 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 
 ## 1. TPS 로그라이크 게임
 **📅 기간**: 2022.09.20 ~ 2025.03.01<br>
-** 역할**: 기획, 프로그래머<br>
+**🧑‍💻 역할**: 기획, 프로그래머<br>
 **👥 팀**: 디자이너 1인<br><br>
 **🎬 개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=JgRZtCDci7s)  <br>
@@ -19,7 +19,7 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 
 ## 2. FPS 미니게임
 **📅 기간**: 2024.09.01 ~ 2024.09.30<br>
-** 역할**: 기획, 프로그래머, 멘토<br>
+**🧑‍💻 역할**: 기획, 프로그래머, 멘토<br>
 **👥 팀**: 프로그래머 1인<br><br>
 **🎬 개발 및 구현 영상**: <br>
 [![영상보기](https://img.youtube.com/vi/PqSt6WACUpI/0.jpg)](https://www.youtube.com/watch?v=PqSt6WACUpI)  <br>
