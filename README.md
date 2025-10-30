@@ -30,11 +30,11 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 ---
 
 ## 3. 퍼즐 게임
-**기간**: 2024.03.01 ~ 2024.10.31<br>
-**역할**: 프로그래머<br>
-**팀**: 프로그래머 2인 <br>
-**GitHub Repository**: [코드](https://github.com/choiminjun-coder/choiminjun-puzzle) <br>
-**설명**: 학교 과제 형태인 3인 팀 프로젝트로, 색상 기반 퍼즐과 TPS 캐릭터 이동을 결합한 스테이지 제작. 퍼즐 로직 및 클리어 구조를 설계하고 Github를 통해 파일 공유 및 팀원간의 피드백을 통한 협업을 진행하였습니다.<br>
+**기간**: 2024.03.01 ~ 2024.10.31<br><br>
+**역할**: 프로그래머<br><br>
+**팀**: 프로그래머 2인 <br><br>
+**GitHub Repository**: [코드](https://github.com/choiminjun-coder/choiminjun-puzzle) <br><br>
+**설명**: 학교 과제 형태인 3인 팀 프로젝트로, 색상 기반 퍼즐과 TPS 캐릭터 이동을 결합한 스테이지 제작. 퍼즐 로직 및 클리어 구조를 설계하고 Github를 통해 파일 공유 및 팀원간의 피드백을 통한 협업을 진행하였습니다.<br><br>
 **주요 기술**: Unity, C#, FSM, Animator, Physics<br>
 
 ---
