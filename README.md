@@ -18,7 +18,7 @@
 - **특징**: 무료 에셋 기반, 직접 구현, 실무 중심 멘토링 프로젝트. 개발자 2인.  
 - **개발 영상**:  
 [![영상보기](https://img.youtube.com/vi/PqSt6WACUpI/0.jpg)](https://www.youtube.com/watch?v=PqSt6WACUpI)  
-- **GitHub Repository**: [코드보기](#)  
+- **GitHub Repository**: [코드보기]([#](https://github.com/dreamerschoiminjun/fps))  
 - **기간**: 2024.09.01 ~ 2024.09.30  
 - **주요 기술**: Unity, C#, Raycast, Coroutine, UI, Audio  
 
