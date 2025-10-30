@@ -29,6 +29,6 @@
 - **특징**: 유니티 기본 시스템 실습, 외부 에셋 연동, 협업 기반 프로젝트. 개발자 3인.  
 - **개발 영상**:  
 *(영상 링크 없음)*  
-- **GitHub Repository**: [코드보기](#)  
+- **GitHub Repository**: [코드보기]([#](https://github.com/choiminjun-coder/choiminjun-puzzle))  
 - **기간**: 2024.03.01 ~ 2024.10.31  
 - **주요 기술**: Unity, C#, FSM, Animator, Coroutine, Physics  
