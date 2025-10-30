@@ -8,7 +8,7 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 **기간**: 2022.09.20 ~ 2025.03.01<br>
 **역할**: 기획, 프로그래머<br>
 **팀**: 디자이너 1인<br><br>
- **개발 및 구현 영상**:  
+ **개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=JgRZtCDci7s)  <br>
 - **GitHub Repository**: [코드](https://github.com/choiminjun-coder/choiminjun-TPSscript)<br>
 - **설명**: 1인 개발 프로젝트 캐릭터 조작, 전투 콤보, 상태이상 시스템, 적 AI, UI/아이템 구조 등 게임플레이 전반을 구현했습니다. 특히 로그라이크의 특징인 다양한 아이템을 위한 설계와 구조적인 관리에 초점을 둔 기반 설계를 진행하였습니다. <br>
@@ -21,7 +21,7 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 **기간**: 2024.09.01 ~ 2024.09.30<br>
 **역할**: 기획, 프로그래머, 멘토<br>
 **팀**: 프로그래머 1인<br><br>
-**개발 및 구현 영상**: 
+**개발 및 구현 영상**: <br>
 [![영상보기](https://img.youtube.com/vi/PqSt6WACUpI/0.jpg)](https://www.youtube.com/watch?v=PqSt6WACUpI)  <br>
 **GitHub Repository**: [코드](https://github.com/choiminjun-coder/choiminjun-fps)<br>
 - **설명**: 단기 프로젝트로, 무료 에셋만 활용한 조건을 기반으로 기획부터 완성까지 빠르게 구현했습니다. 총/사격 시스템과 7종 아이템 효과, 전투 시스템을 직접 설계하고 처음 배우는 팀원에게 기능과 활용 방법을 설명하며 협업 경험을 쌓았습니다.<br>
