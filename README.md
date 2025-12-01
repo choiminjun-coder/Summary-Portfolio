@@ -9,7 +9,7 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 **🧑‍💻 역할**: 기획, 프로그래머<br>
 **👥 팀**: 없음 <br><br>
 **🎬 개발 및 구현 영상**:  <br>
-[![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
+[![영상보기](https://img.youtube.com/vi/3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
 **📝 설명**:  <br><br>
 **⚙️ 주요 기술**: Unity, C#,   <br>
