@@ -4,15 +4,15 @@
 Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운드 등 여러 분야를 활용하는 것을 목표로 하고 있습니다.
 <br>
 
-## 1. TPS 로그라이크 게임
+## 1. 실시간 NPC 대화·음악 시스템
 **📅 기간**: 2025.11.17 ~ 2025.11.21<br>
 **🧑‍💻 역할**: 기획, 프로그래머<br>
 **👥 팀**: 없음 <br><br>
 **🎬 개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
-**📝 설명**:  <br><br>
-**⚙️ 주요 기술**: Unity, C#,   <br>
+**📝 설명**: 플레이어의 입력에 따라 실시간 AI NPC 대사 생성과 그 대사 분위기를 분석해 자동으로 맞춤형 BGM을 생성·재생하는 시스템. <br><br>
+**⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server, Coroutine, HttpClient, UnityWebRequest, JSON 파싱(Newtonsoft.Json), AudioClip(WAV 변환), TextMeshPro, AudioSource   <br>
 
 ## 2. TPS 로그라이크 게임
 **📅 기간**: 2022.09.20 ~ 2025.03.01<br>
