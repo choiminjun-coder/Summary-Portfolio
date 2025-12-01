@@ -4,18 +4,7 @@
 Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운드 등 여러 분야를 활용하는 것을 목표로 하고 있습니다.
 <br>
 
-## 1. 실시간 NPC 대화·음악 시스템
-**📅 기간**: 2025.11.17 ~ 2025.11.21<br>
-**🧑‍💻 역할**: 기획, 프로그래머<br>
-**👥 팀**: 없음 <br><br>
-**🎬 개발 및 구현 영상**:  <br>
-[![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
-**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
-**📝 설명**: 실시간 입력 기반의 AI NPC 시스템을 구현한 프로토타입 프로젝트입니다.
-플레이어의 텍스트 입력을 바탕으로 Google Gemini API를 활용해 자연스러운 NPC 대사를 생성하고, 이후 생성된 대사를 다시 분석해 MusicGen 서버에서 분위기 기반 BGM을 실시간으로 생성·재생합니다. <br><br>
-**⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server, Coroutine, HttpClient, UnityWebRequest, JSON 파싱, AudioClip, TextMeshPro, AudioSource   <br>
-
-## 2. TPS 로그라이크 게임
+## 1. TPS 로그라이크 게임
 **📅 기간**: 2022.09.20 ~ 2025.03.01<br>
 **🧑‍💻 역할**: 기획, 프로그래머<br>
 **👥 팀**: 디자이너 1인<br><br>
@@ -25,6 +14,18 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 **📝 설명**: 1인 개발 프로젝트 캐릭터 조작, 전투 콤보, 상태이상 시스템, 적 AI, UI/아이템 구조 등 게임플레이 전반을 구현했습니다. 특히 로그라이크의 특징인 다양한 아이템을 위한 설계와 구조적인 관리에 초점을 둔 기반 설계를 진행하였습니다. <br><br>
 **⚙️ 주요 기술**: Unity, C#, FSM, Animator, Coroutine, Raycast, NavMesh  <br>
 
+
+---
+## 2. 실시간 NPC 대화·음악 시스템
+**📅 기간**: 2025.11.17 ~ 2025.11.21<br>
+**🧑‍💻 역할**: 기획, 프로그래머<br>
+**👥 팀**: 없음 <br><br>
+**🎬 개발 및 구현 영상**:  <br>
+[![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
+**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
+**📝 설명**: 실시간 입력 기반의 AI NPC 시스템을 구현한 프로토타입 프로젝트입니다.
+플레이어의 텍스트 입력을 바탕으로 Google Gemini API를 활용해 자연스러운 NPC 대사를 생성하고, 이후 생성된 대사를 다시 분석해 MusicGen 서버에서 분위기 기반 BGM을 실시간으로 생성·재생합니다. <br><br>
+**⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server, Coroutine, HttpClient, UnityWebRequest, JSON 파싱, AudioClip, TextMeshPro, AudioSource   <br>
 
 ---
 
