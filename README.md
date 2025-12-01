@@ -11,7 +11,8 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 **🎬 개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
-**📝 설명**: 플레이어의 입력에 따라 실시간 AI NPC 대사 생성과 그 대사 분위기를 분석해 자동으로 맞춤형 BGM을 생성·재생하는 시스템. <br><br>
+**📝 설명**: 실시간 입력 기반의 AI NPC 시스템을 구현한 프로토타입 프로젝트입니다.
+플레이어의 텍스트 입력을 바탕으로 Google Gemini API를 활용해 자연스러운 NPC 대사를 생성하고, 이후 생성된 대사를 다시 분석해 MusicGen 서버에서 분위기 기반 BGM을 실시간으로 생성·재생합니다. <br><br>
 **⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server, Coroutine, HttpClient, UnityWebRequest, JSON 파싱, AudioClip, TextMeshPro, AudioSource   <br>
 
 ## 2. TPS 로그라이크 게임
@@ -44,7 +45,7 @@ Unity 내부기술과 AI를 적극적으로 활용하며, 콘셉 아트, 사운�
 **🧑‍💻 역할**: 프로그래머<br>
 **👥 팀**: 프로그래머 2인 <br><br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/puzzle-game) <br><br>
-**📝 설명**: 학교 과제 형태인 3인 팀 프로젝트로, 색상 기반 퍼즐과 TPS 캐릭터 이동을 결합한 스테이지 제작. 퍼즐 로직 및 클리어 구조를 설계하고 Github를 통해 파일 공유 및 팀원간의 피드백을 통한 협업을 진행하였습니다.<br><br>
+**📝 설명**: 대학교 졸업 과제 형태인 3인 팀 프로젝트로, 색상 기반 퍼즐과 TPS 캐릭터 이동을 결합한 스테이지 제작. 퍼즐 로직 및 클리어 구조를 설계하고 Github를 통해 파일 공유 및 팀원간의 피드백을 통한 협업을 진행하였습니다.<br><br>
 **⚙️ 주요 기술**: Unity, C#, FSM, Animator, Physics<br>
 
 ---
