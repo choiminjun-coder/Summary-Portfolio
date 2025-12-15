@@ -18,7 +18,7 @@
 **👥 팀**: 디자이너 1인<br><br>
 **🎬 개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=JgRZtCDci7s)  <br>
-**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/choiminjun-TPSscript)<br><br>
+**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/ShootingStar)<br><br>
 **📝 설명**: 1인 개발 프로젝트 캐릭터 조작, 전투 콤보, 상태이상 시스템, 적 AI, UI/아이템 구조 등 게임플레이 전반을 구현했습니다. 특히 로그라이크의 특징인 다양한 아이템을 위한 설계와 구조적인 관리에 초점을 둔 기반 설계를 진행하였습니다. <br><br>
 **⚙️ 주요 기술**: Unity, C#, FSM, Animator, Coroutine, Raycast, NavMesh  <br>
 
