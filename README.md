@@ -19,7 +19,9 @@
 **🎬 개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/JgRZtCDci7s/0.jpg)](https://www.youtube.com/watch?v=JgRZtCDci7s)  <br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/ShootingStar)<br><br>
-**📝 설명**: 1인 개발 프로젝트 캐릭터 조작, 전투 콤보, 상태이상 시스템, 적 AI, UI/아이템 구조 등 게임플레이 전반을 구현했습니다. 특히 로그라이크의 특징인 다양한 아이템을 위한 설계와 구조적인 관리에 초점을 둔 기반 설계를 진행하였습니다. <br><br>
+**📝 설명**: 3년간 개발한 1인 TPS 로그라이크 프로젝트로, 전투 시스템과 상태 이상 구조 설계에 집중했습니다.
+캐릭터 조작, 근·원거리 무기 전환, 콤보 공격, 적 AI, 아이템 및 UI 구조까지 게임 플레이 전반을 직접 설계하고 구현했습니다. 
+특히 다양한 전투 상황에 대응할 수 있도록 시스템을 모듈화하여 확장성을 확보했으며, 실제 플레이 흐름 속에서 자연스럽게 연결되는 전투 경험을 만드는 데 중점을 두었습니다.<br><br>
 **⚙️ 주요 기술**: Unity, C#, FSM, Animator, Coroutine, Raycast, NavMesh  <br>
 
 
@@ -31,8 +33,9 @@
 **🎬 개발 및 구현 영상**:  <br>
 [![영상보기](https://img.youtube.com/vi/-3jB3188iXo/0.jpg)](https://www.youtube.com/watch?v=-3jB3188iXo)  <br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/AIChat)<br><br>
-**📝 설명**: 실시간 입력 기반의 AI NPC 시스템을 구현한 프로토타입 프로젝트입니다.
-플레이어의 텍스트 입력을 바탕으로 Google Gemini API를 활용해 자연스러운 NPC 대사를 생성하고, 이후 생성된 대사를 다시 분석해 MusicGen 서버에서 분위기 기반 BGM을 실시간으로 생성·재생합니다. <br><br>
+**📝 설명**: 실시간 입력을 기반으로 NPC 대사를 생성하고, 대사의 분위기를 분석하여 BGM을 자동 생성·재생하는 AI 상호작용 시스템을 구현했습니다.
+Gemini API와 MusicGen 서버를 Unity 환경에 연동하고 Coroutine 기반 비동기 구조를 설계하여 대화 생성부터 음악 재생까지 자연스럽게 이어지는 흐름을 구축했습니다.
+이를 통해 AI 기능을 단순 호출 수준이 아닌 실제 플레이 경험과 연결하는 시스템 통합 역량을 강화했습니다. <br><br>
 **⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server, Coroutine, HttpClient, UnityWebRequest, JSON 파싱, AudioClip, TextMeshPro, AudioSource   <br>
 
 ---
@@ -44,7 +47,9 @@
 **🎬 개발 및 구현 영상**: <br>
 [![영상보기](https://img.youtube.com/vi/PqSt6WACUpI/0.jpg)](https://www.youtube.com/watch?v=PqSt6WACUpI)  <br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/fps-minigame)<br><br>
-**📝 설명**: 단기 프로젝트로, 무료 에셋만 활용한 조건을 기반으로 기획부터 완성까지 빠르게 구현했습니다. 총/사격 시스템과 7종 아이템 효과, 전투 시스템을 직접 설계하고 처음 배우는 팀원에게 기능과 활용 방법을 설명하며 협업 경험을 쌓았습니다.<br><br>
+**📝 설명**: 무료 에셋만 활용하는 조건에서 기획부터 구현까지 단기간에 완성한 프로젝트입니다. 
+총기 및 사격 시스템과 7종 아이템 효과를 직접 설계했으며, 처음 개발을 접하는 팀원에게 시스템 구조와 구현 방식을 설명하고 코드 이해를 도우며 기술 멘토 역할을 수행했습니다. 
+이를 통해 협업 환경에서 기술을 명확하게 전달하는 경험을 쌓았습니다.<br><br>
 **⚙️ 주요 기술**: Unity, C#, Raycast, Coroutine, UI, Audio<br>
 
 ---
@@ -54,7 +59,8 @@
 **🧑‍💻 역할**: 프로그래머<br>
 **👥 팀**: 프로그래머 2인 <br><br>
 **💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/puzzle-game) <br><br>
-**📝 설명**: 대학교 졸업 과제 형태인 3인 팀 프로젝트로, 색상 기반 퍼즐과 TPS 캐릭터 이동을 결합한 스테이지 제작. 퍼즐 로직 및 클리어 구조를 설계하고 Github를 통해 파일 공유 및 팀원간의 피드백을 통한 협업을 진행하였습니다.<br><br>
+**📝 설명**: 3인 개발 팀 프로젝트로 진행되었으며, 색상 기반 퍼즐 로직과 클리어 구조를 설계했습니다. 
+GitHub를 활용한 버전 관리와 코드 피드백을 통해 팀원들과 지속적으로 협업하며 기능을 개선했고, 공동 개발 과정에서 발생하는 문제를 함께 해결하며 협업 기반 개발 경험을 쌓았습니다.<br><br>
 **⚙️ 주요 기술**: Unity, C#, FSM, Animator, Physics<br>
 
 
