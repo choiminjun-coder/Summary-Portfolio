@@ -36,7 +36,7 @@
 **📝 설명**: 실시간 입력을 기반으로 NPC 대사를 생성하고, 대사의 분위기를 분석하여 BGM을 자동 생성·재생하는 AI 상호작용 시스템을 구현했습니다.<br>
 Gemini API와 MusicGen 서버를 Unity 환경에 연동하고 Coroutine 기반 비동기 구조를 설계하여 대화 생성부터 음악 재생까지 자연스럽게 이어지는 흐름을 구축했습니다.<br>
 이를 통해 AI 기능을 단순 호출 수준이 아닌 실제 플레이 경험과 연결하는 시스템 통합 역량을 강화했습니다. <br><br>
-**⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server, Coroutine, HttpClient, UnityWebRequest, JSON 파싱, AudioClip, TextMeshPro, AudioSource   <br>
+**⚙️ 주요 기술**: Unity, C#, Google Gemini API, MusicGen Server  <br>
 
 ---
 
@@ -81,6 +81,6 @@ GitHub를 활용한 버전 관리와 코드 피드백을 통해 팀원들과 지
 학습 환경에서 관찰(Observations)–행동(Actions)–보상(Rewards) 흐름을 직접 구성했으며, 목표 탐지/접근/충돌/시간 제한 등 상황별 보상 구조를 적용해 안정적인 학습이 가능하도록 설계했습니다.<br>
 또한 학습 중 시각적 피드백을 위해 바퀴 조향/회전, 드론 Pitch/Roll 기울기, 프로펠러 회전, 카메라 추적(기울기 영향 제거) 등 플레이어/디버깅 관점의 시각화 요소까지 함께 구현했습니다.<br><br>
 
-**⚙️ 주요 기술**: Unity, C#, Unity ML-Agents, Reinforcement Learning, Raycast, VectorSensor, Continuous Actions, Reward Function 설계, Rigidbody/MovePosition, 카메라 스무딩, 시각화(휠/틸트/팬)  <br>
+**⚙️ 주요 기술**: Unity, C#, Unity ML-Agents <br>
 
 ---
