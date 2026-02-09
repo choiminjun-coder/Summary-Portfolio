@@ -65,4 +65,22 @@ GitHub를 활용한 버전 관리와 코드 피드백을 통해 팀원들과 지
 
 
 -**프로젝트 내부 구조를 확인할 수 있는 개발자용 포트폴리오**: [링크](https://github.com/choiminjun-coder/choiminjun-portfolio)
+---
 
+## 5. Unity ML-Agents 강화학습 (드론/자동차 에이전트)
+
+**📅 기간**: 2026.01.02 ~ 2026.01.28<br>
+**🧑‍💻 역할**: 강화학습 시스템 설계 및 개발, 기술 교육 자료 제작 <br>
+**👥 팀**: 프로그래머1인 <br><br>
+
+**🎬 개발 및 구현 영상**:  <br>
+[![영상보기](https://img.youtube.com/vi/eOJz3_gD0i4/0.jpg)](https://www.youtube.com/watch?v=eOJz3_gD0i4)  <br>
+**💻 GitHub Repository**: [프로젝트](https://github.com/choiminjun-coder/Unity-MLAgents-Autonomous-Vehicles)<br><br>
+
+**📝 설명**: Unity ML-Agents 기반으로 드론(3축 이동)과 자동차(평면 주행) 에이전트를 구현하고, Ray 기반 관찰값과 연속형 액션을 설계해 목표 지점에 도달하도록 학습시키는 강화학습 프로젝트입니다.<br>
+학습 환경에서 관찰(Observations)–행동(Actions)–보상(Rewards) 흐름을 직접 구성했으며, 목표 탐지/접근/충돌/시간 제한 등 상황별 보상 구조를 적용해 안정적인 학습이 가능하도록 설계했습니다.<br>
+또한 학습 중 시각적 피드백을 위해 바퀴 조향/회전, 드론 Pitch/Roll 기울기, 프로펠러 회전, 카메라 추적(기울기 영향 제거) 등 플레이어/디버깅 관점의 시각화 요소까지 함께 구현했습니다.<br><br>
+
+**⚙️ 주요 기술**: Unity, C#, Unity ML-Agents, Reinforcement Learning, Raycast, VectorSensor, Continuous Actions, Reward Function 설계, Rigidbody/MovePosition, 카메라 스무딩, 시각화(휠/틸트/팬)  <br>
+
+---
