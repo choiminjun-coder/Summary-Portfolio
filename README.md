@@ -64,7 +64,7 @@ GitHub를 활용한 버전 관리와 코드 피드백을 통해 팀원들과 지
 **⚙️ 주요 기술**: Unity, C#, FSM, Animator, Physics<br>
 
 
--**프로젝트 내부 구조를 확인할 수 있는 개발자용 포트폴리오**: [링크](https://github.com/choiminjun-coder/choiminjun-portfolio)
+**프로젝트 내부 구조를 확인할 수 있는 개발자용 포트폴리오**: [링크](https://github.com/choiminjun-coder/choiminjun-portfolio)
 ---
 
 ## 부가 포트폴리오. Unity ML-Agents 강화학습 (드론/자동차 에이전트)
